@@ -5,6 +5,7 @@
 * TODO Blockchain
 
 ## Applications
+* Kotoamatsukami [kotoamatsukami](https://github.com/diyliv/kotoamatsukami)
 * Asynchronously checking weather [asyncweather](https://github.com/diyliv/asyncweather)
 * Key:Value storage [key:value](https://github.com/diyliv/keyvaluestorage)
 * TODO Blockchain
